@@ -28,34 +28,102 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.btnTestConnection = new System.Windows.Forms.Button();
+            this.label1 = new System.Windows.Forms.Label();
+            this.btnAircraft = new System.Windows.Forms.Button();
+            this.btnFlight = new System.Windows.Forms.Button();
+            this.btnBook = new System.Windows.Forms.Button();
+            this.btnViewBook = new System.Windows.Forms.Button();
+            this.btnLogout = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
-            // btnTestConnection
+            // label1
             // 
-            this.btnTestConnection.Location = new System.Drawing.Point(221, 134);
-            this.btnTestConnection.Name = "btnTestConnection";
-            this.btnTestConnection.Size = new System.Drawing.Size(137, 71);
-            this.btnTestConnection.TabIndex = 0;
-            this.btnTestConnection.Text = "testconnect";
-            this.btnTestConnection.UseVisualStyleBackColor = true;
-            this.btnTestConnection.Click += new System.EventHandler(this.btnTestConnection_Click);
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(32, 28);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(213, 28);
+            this.label1.TabIndex = 0;
+            this.label1.Text = "Flight Ticketing System";
             // 
-            // Form1
+            // btnAircraft
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
+            this.btnAircraft.Location = new System.Drawing.Point(55, 127);
+            this.btnAircraft.Name = "btnAircraft";
+            this.btnAircraft.Size = new System.Drawing.Size(190, 79);
+            this.btnAircraft.TabIndex = 1;
+            this.btnAircraft.Text = "Manage Aircraft";
+            this.btnAircraft.UseVisualStyleBackColor = true;
+            this.btnAircraft.Click += new System.EventHandler(this.btnAircraft_Click);
+            // 
+            // btnFlight
+            // 
+            this.btnFlight.Location = new System.Drawing.Point(380, 127);
+            this.btnFlight.Name = "btnFlight";
+            this.btnFlight.Size = new System.Drawing.Size(190, 79);
+            this.btnFlight.TabIndex = 2;
+            this.btnFlight.Text = "Manage Flights";
+            this.btnFlight.UseVisualStyleBackColor = true;
+            this.btnFlight.Click += new System.EventHandler(this.btnFlight_Click);
+            // 
+            // btnBook
+            // 
+            this.btnBook.Location = new System.Drawing.Point(705, 127);
+            this.btnBook.Name = "btnBook";
+            this.btnBook.Size = new System.Drawing.Size(190, 79);
+            this.btnBook.TabIndex = 3;
+            this.btnBook.Text = "Book Seats";
+            this.btnBook.UseVisualStyleBackColor = true;
+            this.btnBook.Click += new System.EventHandler(this.btnBook_Click);
+            // 
+            // btnViewBook
+            // 
+            this.btnViewBook.Location = new System.Drawing.Point(55, 292);
+            this.btnViewBook.Name = "btnViewBook";
+            this.btnViewBook.Size = new System.Drawing.Size(190, 79);
+            this.btnViewBook.TabIndex = 4;
+            this.btnViewBook.Text = "View Bookings";
+            this.btnViewBook.UseVisualStyleBackColor = true;
+            this.btnViewBook.Click += new System.EventHandler(this.btnViewBook_Click);
+            // 
+            // btnLogout
+            // 
+            this.btnLogout.Location = new System.Drawing.Point(380, 292);
+            this.btnLogout.Name = "btnLogout";
+            this.btnLogout.Size = new System.Drawing.Size(190, 79);
+            this.btnLogout.TabIndex = 5;
+            this.btnLogout.Text = "Logout";
+            this.btnLogout.UseVisualStyleBackColor = true;
+            this.btnLogout.Click += new System.EventHandler(this.btnLogout_Click);
+            // 
+            // MainForm
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(11F, 28F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.btnTestConnection);
-            this.Name = "Form1";
-            this.Text = "Form1";
+            this.BackColor = System.Drawing.Color.White;
+            this.ClientSize = new System.Drawing.Size(978, 631);
+            this.Controls.Add(this.btnLogout);
+            this.Controls.Add(this.btnViewBook);
+            this.Controls.Add(this.btnBook);
+            this.Controls.Add(this.btnFlight);
+            this.Controls.Add(this.btnAircraft);
+            this.Controls.Add(this.label1);
+            this.Font = new System.Drawing.Font("Segoe UI", 10F);
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Name = "MainForm";
+            this.Text = "Main Dashboard";
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
         #endregion
 
-        private System.Windows.Forms.Button btnTestConnection;
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Button btnAircraft;
+        private System.Windows.Forms.Button btnFlight;
+        private System.Windows.Forms.Button btnBook;
+        private System.Windows.Forms.Button btnViewBook;
+        private System.Windows.Forms.Button btnLogout;
     }
 }
 

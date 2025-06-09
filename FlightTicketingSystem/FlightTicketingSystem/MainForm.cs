@@ -17,14 +17,43 @@ namespace FlightTicketingSystem
             InitializeComponent();
         }
 
-        private void btnTestConnection_Click(object sender, EventArgs e)
+        private void btnAircraft_Click(object sender, EventArgs e)
         {
-            using (var conn = DbHelper.GetConnection())
-            {
-                conn.Open();
-                MessageBox.Show("Connection is successful!");
-            }
-
+            AircraftForm aircraftForm = new AircraftForm();
+            aircraftForm.ShowDialog();
         }
+
+        private void btnFlight_Click(object sender, EventArgs e)
+        {
+            FlightForm flightForm = new FlightForm();
+            flightForm.ShowDialog();
+        }
+
+        private void btnBook_Click(object sender, EventArgs e)
+        {
+            BookingForm bookingForm = new BookingForm();
+            bookingForm.ShowDialog();
+        }
+
+        private void btnViewBook_Click(object sender, EventArgs e)
+        {
+            ViewBookingForm viewBookingForm = new ViewBookingForm();
+            viewBookingForm.ShowDialog();
+        }
+
+        private void btnLogout_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+        //private void btnTestConnection_Click(object sender, EventArgs e)
+        //{
+        //    using (var conn = DbHelper.GetConnection())
+        //    {
+        //        conn.Open();
+        //        MessageBox.Show("Connection is successful!");
+        //    }
+
+        //}
     }
 }
