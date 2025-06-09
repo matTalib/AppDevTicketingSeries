@@ -10,10 +10,12 @@ C:\Users\User\OneDrive\Desktop\GithubTutorial\AppDevTicketingSeries\FlightTicket
 C:\Users\User\OneDrive\Desktop\GithubTutorial\AppDevTicketingSeries\FlightTicketingSystem\FlightTicketingSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 C:\Users\User\OneDrive\Desktop\GithubTutorial\AppDevTicketingSeries\FlightTicketingSystem\FlightTicketingSystem\bin\Debug\System.Threading.Tasks.Extensions.xml
 C:\Users\User\OneDrive\Desktop\GithubTutorial\AppDevTicketingSeries\FlightTicketingSystem\FlightTicketingSystem\obj\Debug\FlightTicketingSystem.csproj.AssemblyReference.cache
-C:\Users\User\OneDrive\Desktop\GithubTutorial\AppDevTicketingSeries\FlightTicketingSystem\FlightTicketingSystem\obj\Debug\FlightTicketingSystem.Form1.resources
 C:\Users\User\OneDrive\Desktop\GithubTutorial\AppDevTicketingSeries\FlightTicketingSystem\FlightTicketingSystem\obj\Debug\FlightTicketingSystem.Properties.Resources.resources
 C:\Users\User\OneDrive\Desktop\GithubTutorial\AppDevTicketingSeries\FlightTicketingSystem\FlightTicketingSystem\obj\Debug\FlightTicketingSystem.csproj.GenerateResource.cache
 C:\Users\User\OneDrive\Desktop\GithubTutorial\AppDevTicketingSeries\FlightTicketingSystem\FlightTicketingSystem\obj\Debug\FlightTicketingSystem.csproj.CoreCompileInputs.cache
 C:\Users\User\OneDrive\Desktop\GithubTutorial\AppDevTicketingSeries\FlightTicketingSystem\FlightTicketingSystem\obj\Debug\FlightTi.2047D403.Up2Date
 C:\Users\User\OneDrive\Desktop\GithubTutorial\AppDevTicketingSeries\FlightTicketingSystem\FlightTicketingSystem\obj\Debug\FlightTicketingSystem.exe
 C:\Users\User\OneDrive\Desktop\GithubTutorial\AppDevTicketingSeries\FlightTicketingSystem\FlightTicketingSystem\obj\Debug\FlightTicketingSystem.pdb
+C:\Users\User\OneDrive\Desktop\GithubTutorial\AppDevTicketingSeries\FlightTicketingSystem\FlightTicketingSystem\obj\Debug\FlightTicketingSystem.exe.config
+C:\Users\User\OneDrive\Desktop\GithubTutorial\AppDevTicketingSeries\FlightTicketingSystem\FlightTicketingSystem\obj\Debug\FlightTicketingSystem.LoginForm.resources
+C:\Users\User\OneDrive\Desktop\GithubTutorial\AppDevTicketingSeries\FlightTicketingSystem\FlightTicketingSystem\obj\Debug\FlightTicketingSystem.MainForm.resources
