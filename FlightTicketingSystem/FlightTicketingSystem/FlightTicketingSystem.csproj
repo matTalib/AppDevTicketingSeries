@@ -60,6 +60,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Admin.cs" />
+    <Compile Include="Aircraft.cs" />
     <Compile Include="AircraftForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -99,6 +100,9 @@
     <Compile Include="ViewBookingForm.Designer.cs">
       <DependentUpon>ViewBookingForm.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="AircraftForm.resx">
+      <DependentUpon>AircraftForm.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="MainForm.resx">
       <DependentUpon>MainForm.cs</DependentUpon>
     </EmbeddedResource>

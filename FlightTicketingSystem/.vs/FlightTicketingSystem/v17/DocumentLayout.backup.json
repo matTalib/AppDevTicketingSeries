@@ -1,7 +1,20 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Desktop\\GithubTutorial\\AppDevTicketingSeries\\FlightTicketingSystem\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33D3706F-098B-4EB5-9C6E-186F34264010}|FlightTicketingSystem\\FlightTicketingSystem.csproj|c:\\users\\user\\onedrive\\desktop\\githubtutorial\\appdevticketingseries\\flightticketingsystem\\flightticketingsystem\\aircraftform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33D3706F-098B-4EB5-9C6E-186F34264010}|FlightTicketingSystem\\FlightTicketingSystem.csproj|solutionrelative:flightticketingsystem\\aircraftform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33D3706F-098B-4EB5-9C6E-186F34264010}|FlightTicketingSystem\\FlightTicketingSystem.csproj|c:\\users\\user\\onedrive\\desktop\\githubtutorial\\appdevticketingseries\\flightticketingsystem\\flightticketingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33D3706F-098B-4EB5-9C6E-186F34264010}|FlightTicketingSystem\\FlightTicketingSystem.csproj|solutionrelative:flightticketingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33D3706F-098B-4EB5-9C6E-186F34264010}|FlightTicketingSystem\\FlightTicketingSystem.csproj|c:\\users\\user\\onedrive\\desktop\\githubtutorial\\appdevticketingseries\\flightticketingsystem\\flightticketingsystem\\aircraftform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{33D3706F-098B-4EB5-9C6E-186F34264010}|FlightTicketingSystem\\FlightTicketingSystem.csproj|solutionrelative:flightticketingsystem\\aircraftform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,6 +35,44 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\GithubTutorial\\AppDevTicketingSeries\\FlightTicketingSystem\\FlightTicketingSystem\\Program.cs",
+              "RelativeDocumentMoniker": "FlightTicketingSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\GithubTutorial\\AppDevTicketingSeries\\FlightTicketingSystem\\FlightTicketingSystem\\Program.cs",
+              "RelativeToolTip": "FlightTicketingSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T07:55:34.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AircraftForm.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\GithubTutorial\\AppDevTicketingSeries\\FlightTicketingSystem\\FlightTicketingSystem\\AircraftForm.cs",
+              "RelativeDocumentMoniker": "FlightTicketingSystem\\AircraftForm.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\GithubTutorial\\AppDevTicketingSeries\\FlightTicketingSystem\\FlightTicketingSystem\\AircraftForm.cs",
+              "RelativeToolTip": "FlightTicketingSystem\\AircraftForm.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwEYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T07:27:36.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AircraftForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\GithubTutorial\\AppDevTicketingSeries\\FlightTicketingSystem\\FlightTicketingSystem\\AircraftForm.cs",
+              "RelativeDocumentMoniker": "FlightTicketingSystem\\AircraftForm.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\GithubTutorial\\AppDevTicketingSeries\\FlightTicketingSystem\\FlightTicketingSystem\\AircraftForm.cs [Design]",
+              "RelativeToolTip": "FlightTicketingSystem\\AircraftForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T07:20:02.79Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }
