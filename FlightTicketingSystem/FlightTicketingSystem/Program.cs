@@ -16,7 +16,7 @@ namespace FlightTicketingSystem
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new AircraftForm());
+            Application.Run(new LoginForm());
         }
     }
 }

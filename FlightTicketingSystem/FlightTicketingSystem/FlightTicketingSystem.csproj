@@ -74,6 +74,7 @@
       <DependentUpon>BookingForm.cs</DependentUpon>
     </Compile>
     <Compile Include="DbHelper.cs" />
+    <Compile Include="Flight.cs" />
     <Compile Include="FlightForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -102,6 +103,9 @@
     </Compile>
     <EmbeddedResource Include="AircraftForm.resx">
       <DependentUpon>AircraftForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FlightForm.resx">
+      <DependentUpon>FlightForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="MainForm.resx">
       <DependentUpon>MainForm.cs</DependentUpon>
