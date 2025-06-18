@@ -22,3 +22,4 @@ C:\Users\User\OneDrive\Desktop\GithubTutorial\AppDevTicketingSeries\FlightTicket
 C:\Users\User\OneDrive\Desktop\GithubTutorial\AppDevTicketingSeries\FlightTicketingSystem\FlightTicketingSystem\obj\Debug\FlightTicketingSystem.AircraftForm.resources
 C:\Users\User\OneDrive\Desktop\GithubTutorial\AppDevTicketingSeries\FlightTicketingSystem\FlightTicketingSystem\obj\Debug\FlightTicketingSystem.FlightForm.resources
 C:\Users\User\OneDrive\Desktop\GithubTutorial\AppDevTicketingSeries\FlightTicketingSystem\FlightTicketingSystem\obj\Debug\FlightTicketingSystem.BookingForm.resources
+C:\Users\User\OneDrive\Desktop\GithubTutorial\AppDevTicketingSeries\FlightTicketingSystem\FlightTicketingSystem\obj\Debug\FlightTicketingSystem.ViewBookingForm.resources

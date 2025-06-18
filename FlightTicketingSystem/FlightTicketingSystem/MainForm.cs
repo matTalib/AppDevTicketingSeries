@@ -43,7 +43,15 @@ namespace FlightTicketingSystem
 
         private void btnLogout_Click(object sender, EventArgs e)
         {
-            this.Close();
+            var confirm = MessageBox.Show("Are you sure you want to logout?", "Confirm Logout", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+            if (confirm == DialogResult.Yes)
+            {
+
+                this.Hide();
+
+                var loginForm = new LoginForm();
+                loginForm.Show();
+            }
         }
 
         //private void btnTestConnection_Click(object sender, EventArgs e)
